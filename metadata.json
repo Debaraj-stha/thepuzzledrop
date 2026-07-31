@@ -1,0 +1,6 @@
+{
+  "name": "ThePuzzleDrop",
+  "description": "Daily riddles, logic teasers, math puzzles, and brain challenges in a sleek dark theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
